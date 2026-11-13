@@ -2,12 +2,14 @@
 
 Entry for make.fun bounty `coolest-art-01`.
 
-Artwork: "THE LAST SUNSET FACTORY" — ukiyo-e woodblock style.
-A gigantic celestial factory on cliffs above the ocean manufactures
-the final sunset: colossal vermilion sun, bamboo scaffolding, golden
-chains, wooden gears, spiral staircase with lantern workers, molten
-gold rivers, great waves, sailing ships, and birds flying to the light.
-Flat woodblock colours, bold ink outlines.
+Artwork: "MENDING THE MOON" — ukiyo-e woodblock style, following the
+winning moon theme of the top Coolest Art entries.
+A gigantic luminous full moon with a fine golden crack fills the night
+sky, mended by tiny craftsmen on bamboo scaffolding who stitch it with
+glowing golden thread. Cranes fly around the moon, the Great Wave curls
+below, and a small lantern boat sails the sea. Deep Prussian blue,
+midnight indigo, antique gold, ivory and charcoal black. Flat woodblock
+colours, bold ink outlines, aged washi feel.
 
 ## Files
 
@@ -30,6 +32,6 @@ Run twice: both runs write identical bytes.
 ## Requirements checked
 
 - 1024x1024 PNG
-- Under 1 MiB (793,812 bytes)
+- Under 1 MiB (789,797 bytes, sha256 438ed64579673b1bbedcbd67039b5ea346599e27689a1c9d10010307457e0edc)
 - Deterministic, no network
 - Python 3 stdlib only

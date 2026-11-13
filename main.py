@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Make the coolest art - ukiyo-e entry.
+"""Make the coolest art - ukiyo-e entry, "MENDING THE MOON".
 
 Writes one piece of art to /output/entry.png.
 Deterministic, no network, stdlib only.
