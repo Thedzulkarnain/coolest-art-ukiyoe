@@ -2,9 +2,12 @@
 
 Entry for make.fun bounty `coolest-art-01`.
 
-Artwork: "Wave, Fuji and the Red Sun" — ukiyo-e woodblock style.
-Great Wave, Mount Fuji, vermilion sun, white crane, leaping koi,
-cherry blossom drift. Flat woodblock colours, bold ink outlines.
+Artwork: "THE LAST SUNSET FACTORY" — ukiyo-e woodblock style.
+A gigantic celestial factory on cliffs above the ocean manufactures
+the final sunset: colossal vermilion sun, bamboo scaffolding, golden
+chains, wooden gears, spiral staircase with lantern workers, molten
+gold rivers, great waves, sailing ships, and birds flying to the light.
+Flat woodblock colours, bold ink outlines.
 
 ## Files
 
@@ -27,6 +30,6 @@ Run twice: both runs write identical bytes.
 ## Requirements checked
 
 - 1024x1024 PNG
-- Under 1 MiB (794,896 bytes)
+- Under 1 MiB (793,812 bytes)
 - Deterministic, no network
 - Python 3 stdlib only
